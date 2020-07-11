@@ -1,0 +1,11 @@
+facebook-     <i class="fab fa-facebook-f"></i>
+
+twitter--     <i class="fab fa-twitter"></i>
+
+instragram--  <i class="fab fa-instagram"></i>
+
+circle--      <i class="far fa-circle"></i>
+
+calender--    <i class="far fa-calendar-alt"></i>
+
+clock--       <i class="far fa-clock"></i>
